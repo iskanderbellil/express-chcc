@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Work Sans', sans-serif;
+    background: linear-gradient(0.25turn, #ebf6fc, #ebf8e1, #f5b26a);
+    margin: 20px 20px 20px 20px;
+    padding: 2%;
+
+}
+
+.title{
+
+    color: rgb(112, 136, 136);
+
+}
+.bg-orange {
+    background: linear-gradient(0.25turn, #a7d4e7, #ebf8e1, #f69d3c);
+
+
+}

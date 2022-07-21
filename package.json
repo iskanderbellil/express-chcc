@@ -1,0 +1,19 @@
+{
+  "name": "practice-28---ws-express-",
+  "version": "1.0.0",
+  "description": "workshop express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-navbar-sidebar": "^4.0.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
